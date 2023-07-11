@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">La Cocina</string>
+    <string name="prefs_file">com.example.lacocinacompose.PREFERENCE_FILE_KEY</string>
+    <string name="google_client">971867092063-uo00oi9fmar1gf3ot2ae71qgq3htnp7i.apps.googleusercontent.com</string>
+</resources>

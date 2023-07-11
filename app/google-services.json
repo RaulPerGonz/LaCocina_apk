@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "971867092063",
+    "project_id": "la-cocina-compose",
+    "storage_bucket": "la-cocina-compose.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971867092063:android:e9f9755b7285ff5e1917ea",
+        "android_client_info": {
+          "package_name": "com.example.lacocinacompose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971867092063-5cuf578tj0o306rpiejf70jrrlua6rjr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfRtkTFjKITsm0GhczGBlV1Oe3EunzGWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971867092063-5cuf578tj0o306rpiejf70jrrlua6rjr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
